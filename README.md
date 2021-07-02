@@ -9,4 +9,4 @@
 - 😄 Pronouns: **He/His/They/Their (Whatever as long as it's not She/Her)**
 - ⚡ Fun fact: **Github helped me make this, I was too lazy**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamVong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamVong&show_icons=true&theme=radical)](https://github.com/WilliamVong)
