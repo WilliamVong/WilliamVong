@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!--
-**WilliamVong/WilliamVong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **[an MCYT](https://github.com/WilliamVong/mcyt)**
+- 🌱 I’m currently learning **Julia and Computational Linear Algebra**
+- 👯 I’m looking to collaborate on **whatever as long as it's something I know**
+- 🤔 I’m looking for help with **MCYT listed above**
+- 💬 Ask me about **Discord.js I guess**
+- 📫 How to reach me: **ThunderRedStar#9374 (Discord), me@thunderredstar.tech (Email)**
+- 😄 Pronouns: **He/His/They/Their (Whatever as long as it's not She/Her)**
+- ⚡ Fun fact: **Github helped me make this, I was too lazy**
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamVong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
