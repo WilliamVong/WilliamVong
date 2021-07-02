@@ -1,3 +1,5 @@
+# WilliamVong
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on **[an MCYT](https://github.com/WilliamVong/mcyt)**
@@ -10,3 +12,5 @@
 - ⚡ Fun fact: **Github helped me make this, I was too lazy**
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamVong&show_icons=true&theme=radical)](https://github.com/WilliamVong)
+
+Today is {{ new Date().toLocaleString('en-GB',{ weekday: 'long', month:'long', year:'numeric', day:'numeric'}) }}
