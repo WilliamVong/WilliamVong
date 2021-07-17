@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on **[an MCYT](https://github.com/WilliamVong/mcyt)**
+- 🔭 I’m currently working on **[a ThunderAPI](https://thunderapi.tech)**
 - 🌱 I’m currently learning **Julia and Computational Linear Algebra**
 - 👯 I’m looking to collaborate on **whatever as long as it's something I know**
 - 🤔 I’m looking for help with **MCYT listed above**
