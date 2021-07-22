@@ -1,3 +1,5 @@
+* not associated with the user ThunderRedstar *
+
 # thunder-red-star
 
 ### Hi there 👋
