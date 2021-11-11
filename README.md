@@ -15,7 +15,8 @@
 
 Run me on replit!
 [![Run me on replit!](https://replit.com/badge/github/thunder-red-star/thunder-red-star)](https://repl.it/github/thunder-red-star/thunder-red-star).
-(seriously)
+
+(seriously. here's my actual replit:)
 [![My replit!](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.svg.png)](https://replit.com/@WilliamVongphan).
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder-red-star&show_icons=true&theme=radical)](https://github.com/WilliamVong)
