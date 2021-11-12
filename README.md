@@ -11,6 +11,8 @@
 - 💬 Ask me about **Discord.js I guess**
 - 📫 How to reach me: **ThunderRedStar#8230 (Discord), me@thunderredstar.tech (Email)**
 - 😄 Pronouns: **He/His/They/Their (Whatever as long as it's not She/Her)**
+- 🎵 [![Nectarine](https://www.scenestream.net/static/emoticons/support-our-fruits.gif)](https://www.scenestream.net/demovibes/) (favorite radio station)
+- 🎵 https://soundcloud.com/spiral-se/z04-spiral-hands-on-v-jean-michel-jarre-chronologie-ii (favorite song)
 - ⚡ Fun fact: **Github helped me make this, I was too lazy**
 
 Run me on replit!
