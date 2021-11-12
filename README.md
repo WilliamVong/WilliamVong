@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently slaving away at **[my APCS Test 2 Explanations](https://github.com/thunder-red-star/Test-2-Review)**
+- 🔭 I’m currently working on **a Discord CLI!**
 - 🌱 I’m currently learning **Julia and Computational Linear Algebra**
 - 👯 I’m looking to collaborate on **whatever as long as it's something I know**
 - 🤔 I’m looking for help with **MCYT listed above**
