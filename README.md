@@ -13,4 +13,4 @@
 - 😄 Pronouns: **He/His/They/Their (Whatever as long as it's not She/Her)**
 - ⚡ Fun fact: **Github helped me make this, I was too lazy**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder-red-star&bg_color=90,ffcfcf,ffffcf&title_color=662222&border_radius=20&show_icons=true)](https://github.com/thunder-red-star)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder-red-star&bg_color=90,ffbfbf,ffffbf&title_color=662222&border_radius=20&show_icons=true&icon_color=ff4444)](https://github.com/thunder-red-star)
