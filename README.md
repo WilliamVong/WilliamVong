@@ -1,4 +1,4 @@
-[![banner](https://devastation.software/assets/thunder-red-star-banner.png)](https://github.com/thunder-red-star)
+[![banner](https://devastation.software/assets/thunder-red-star-bannerfixed.png)](https://github.com/thunder-red-star)
 
 ### Hi there 👋
 
