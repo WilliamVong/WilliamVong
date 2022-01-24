@@ -1,6 +1,4 @@
-* not associated with the user ThunderRedstar *
-
-# thunder-red-star
+[![banner](https://devastation.software/assets/thunder-red-star-banner.png)](https://github.com/thunder-red-star)
 
 ### Hi there 👋
 
