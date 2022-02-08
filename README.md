@@ -1,5 +1,7 @@
 [![banner](https://devastation.software/assets/thunder-red-star-bannerfixed.png)](https://github.com/thunder-red-star)
 
+[![My profile view count](https://counter.thdr.me/count)](https://github.com/thunder-red-star)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on **a Discord CLI!**
