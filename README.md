@@ -1,6 +1,5 @@
 [![banner](https://devastation.software/assets/thunder-red-star-bannerfixed.png)](https://github.com/thunder-red-star)
 
-[![My profile view counter](https://counter.thdr.me/count)](https://github.com/thunder-red-star)
 [![My profile view goal](https://counter.thdr.me/goal)](https://github.com/thunder-red-star)
 
 
