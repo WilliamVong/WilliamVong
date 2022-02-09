@@ -4,9 +4,21 @@
 
 # ThunderRedStar
 
+## About Me
+
 Hello! I'm a computer-science loving student at Stuyvesant High School. I program primarily in Node.js for most of my Discord bots and miscellaneous projects and junk, and also know:
 * `[=================>     ]` Python
 * `[==============>        ]` Java
 * `[==============>        ]` HTML/CSS/JS and web design
 * `[============>          ]` Julia
 * `[==========>            ]` Bash (scripting)
+
+## Projects
+
+My biggest project is [**MCYT**](https://mcyt.social). It's a Discord bot that happens to do stuff that MCYT fans do too.  
+I also work on other web design projects, for example you can see [Stuy.world](https://stuy.world).
+
+## Contact
+
+thunderredstar@gmail.com
+ThunderRedStar#5969
