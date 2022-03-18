@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 [![My profile view goal](https://counter.thdr.me/goal)](https://github.com/thunder-red-star)
 [![banner](https://devastation.software/assets/thunder-red-star-bannerfixed.png)](https://github.com/thunder-red-star)
 
