@@ -5,7 +5,7 @@
 
 
 # ThunderRedStar
-
+* I did some spring cleaning in my Repositories list, it should be cut from 71 to 37 repos.
 ## About Me
 
 Hello! I'm a computer-science loving student at Stuyvesant High School. I program primarily in Node.js for most of my Discord bots and miscellaneous projects and junk, and also know:
