@@ -17,8 +17,8 @@ Hello! I'm a computer-science loving student at Stuyvesant High School. I progra
 
 ## Projects
 
-My biggest project is [**MCYT**](https://mcyt.social). It's a Discord bot that happens to do stuff that MCYT fans do too.  
-I also work on other web design projects, for example you can see [Stuy.world](https://stuy.world).
+My biggest project is [**ThunderCMS**](https://github.com/thunder-red-star/ThunderCMS).
+I also work on other web design projects, for example you can see [StuyDevs](https://stuydevs.dev.devastation.software).
 
 ## Contact
 
