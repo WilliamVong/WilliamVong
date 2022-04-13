@@ -17,7 +17,7 @@ Hello! I'm a computer-science loving student at Stuyvesant High School. I progra
 
 ## Projects
 
-My biggest project is [**Chainlink**](https://github.com/DevastationSoftware/chainlink).
+My biggest project is [**Chainlink**](https://github.com/Devastation-Software/chainlink).
 
 ## Contact
 
