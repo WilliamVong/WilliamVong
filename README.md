@@ -17,8 +17,7 @@ Hello! I'm a computer-science loving student at Stuyvesant High School. I progra
 
 ## Projects
 
-My biggest project is [**ThunderCMS**](https://github.com/thunder-red-star/ThunderCMS).
-I also work on other web design projects, for example you can see [StuyDevs](https://stuydevs.dev.devastation.software).
+My biggest project is [**Chainlink**](https://github.com/DevastationSoftware/chainlink).
 
 ## Contact
 
