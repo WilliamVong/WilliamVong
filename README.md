@@ -16,17 +16,22 @@
 
 <!-- Links -->
 <p align="center">
-  <img src="http://localhost:3000/randomdots?1">
+  <img src="https://github.thunderredstar.host/randomdots?1">
 </p>
 placeholder 1
 <p align="center">
-  <img src="http://localhost:3000/randomdots?2">
+  <img src="https://github.thunderredstar.host/randomdots?2">
 </p>
 placeholder 2
 <p align="center">
-  <img src="http://localhost:3000/randomdots?3">
+  <img src="https://github.thunderredstar.host/randomdots?3">
 </p>
 placeholder 3
 <p align="center">
-  <img src="http://localhost:3000/randomdots?4">
+  <img src="https://github.thunderredstar.host/randomdots?4">
+</p>
+
+<!-- Footer -->
+<p>
+<img src="https://github.thunderredstar.host/viewcount" alt="view count">
 </p>

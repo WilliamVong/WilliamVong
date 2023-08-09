@@ -14,7 +14,7 @@ app.get('/randomdots', (req, res) => {
 	res.send(canvas.toBuffer());
 });
 
-app.get('/viewcounter', (req, res) => {
+app.get('/viewcount', (req, res) => {
 	let count = parseInt(fs.readFileSync(pathToCountFile, 'utf8')) + 1;
 	fs.writeFileSync(pathToCountFile, count.toString(), 'utf8');
 	let canvas = viewCounter(count, { width: 100, height: 20 }, 'red');
