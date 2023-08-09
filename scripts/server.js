@@ -3,7 +3,7 @@ const drawRandomDots = require('./randomdots');
 const viewCounter = require('./viewcounter');
 const app = express();
 const fs = require('fs');
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8222;
 
 const pathToCountFile = __dirname + '/n';
 
